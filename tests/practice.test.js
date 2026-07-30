@@ -8,4 +8,9 @@ describe("Practice Tests", () => {
   test("sum function adds negatives correctly", () => {
     expect(sum(-4, 1)).toBe(-3);
   });
+
+  test("temporary CI failure", () => {
+  expect(true).toBe(false);
+  });
+  
 });

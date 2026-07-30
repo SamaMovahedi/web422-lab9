@@ -4,7 +4,7 @@ import ClickCounter from "@/components/ClickCounter";
 export default function Home() {
   return (
     <>
-      <h1>Vehicles UI</h1>
+      <h1>Sama&apos;s Vehicle</h1>
       <p>
         A small app we will test this week. It has a public home page, a login
         form, and a protected vehicles list.

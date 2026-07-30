@@ -65,3 +65,5 @@ git push origin main
 `node_modules/`, `.next/`, and Cypress videos/screenshots are already excluded
 by `.gitignore`. **`package-lock.json` is not** — it must be committed, because
 CI installs with `npm ci`.
+
+CI workflow verified.
